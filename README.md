@@ -68,5 +68,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Replace the placeholders like `link_to_your_logo` with actual links or content relevant to your project. This README provides an overview of your project, its features, installation instructions, usage guide, contribution guidelines, and license information. Feel free to customize it further based on your project's specific requirements and details.
